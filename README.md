@@ -43,12 +43,13 @@ This project practices modern JavaScript array and object manipulation using a K
 - `drills.js` — numbered JavaScript exercise solutions.
 - `dashboard/` — Vite and Tailwind dashboard.
 - `dashboard/src/dashboardHelpers.js` — dashboard helper functions.
-
 ## Screenshot
 
-Add a screenshot of the completed dashboard here before submitting.
+![Completed Dashboard](dashboard-screenshot.png)
 
 ## Score
 
-Add your final workshop score here after checking your solutions against the assignment requirements.
+Workshop total: 63 points
+Bonus: up to 2 points
+Final score: Pending instructor review.
 
